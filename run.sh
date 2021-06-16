@@ -61,8 +61,8 @@ node jd_zoo.js || true
 node jd_big_winner.js || true
 
  #疯狂的joy #监控crazyJoy分红 #京东排行榜 #领京豆额外奖励 #京东保价 #闪购盲盒 #新潮品牌狂欢 #京喜领88元红包
-node jd_crazy_joy.js || true
-node jd_crazy_joy_bonus.js || true
+#node jd_crazy_joy.js || true
+#node jd_crazy_joy_bonus.js || true
 node jd_rankingList.js || true
 node jd_bean_home.js || true
 node jd_price.js || true
