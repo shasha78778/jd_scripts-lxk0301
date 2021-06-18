@@ -3,7 +3,7 @@ name: Github JD-alert bot
 on:
     workflow_dispatch: # 手动触发
     schedule:
-        - cron: '00 01 * * *'
+        - cron: '03 23 * * *'
         - cron: '00 11 * * *'
 jobs:
     build:
